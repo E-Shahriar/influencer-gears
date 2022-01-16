@@ -187,7 +187,7 @@ footer .details {
     width: 262px;
     height: 139px;
     color: #fff;
-    margin: 00px 0 30px 0;
+    margin: 20px 0 50px 0;
 }
 .details h3 {
     font-size: 25px;
@@ -200,9 +200,16 @@ footer .details {
     font-size: 14px;
     text-align: center;
 }
+.icons {
+    margin-left: 25px;
+}
+.icons a {
+    text-decoration: none;
+    color: #fff;
+}
 .icons .fab {
-    margin-left: 45px;
-    font-size: 16px;
+    margin-left: 15px;
+    font-size: 30px;
     margin-top: 10px;
 }
 
